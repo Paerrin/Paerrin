@@ -1,6 +1,10 @@
-### Hi there 👋
+New to programming.
 
-Just starting my programming journey. Learning markdown and Rust.
+Learning Markdown and Rust currently.
+
+Into 3D printing and electronics.
+
+Open Source fan.
 
 <!--
 **Paerrin/Paerrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
