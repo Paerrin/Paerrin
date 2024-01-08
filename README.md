@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Just starting my programming journey. Learning markdown and Rust.
+
 <!--
 **Paerrin/Paerrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
